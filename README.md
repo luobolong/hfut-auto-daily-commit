@@ -29,7 +29,7 @@ pip install -r requirements.txt
 [info]
 username=你的学号
 password=你的密码
-address=你当前的填报地址  格式：XX省XX市XX区/县  如：安徽省合肥市蜀山区
+address=你当前的填报地址（定位信息）
 
 [email]
 enable=是否开启QQ邮箱推送功能：1 开启 / 0 关闭
